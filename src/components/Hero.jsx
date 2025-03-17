@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { clipPath, section } from "framer-motion/client";
 import { HERO_CONTENT } from "../constants";
-import jason from "../assets/jason-root.webp";
+import subham from "../assets/profile-pic.png";
 
 const textVariants = {
   hidden: {
@@ -77,7 +77,13 @@ const Hero = () => {
           animate="visible"
           variants={imageVariants}
         >
-          <img src={jason} alt="Jason root" width={650} height={650} className="rounded-3xl" />
+          <img
+            src={subham}
+            alt="Subham Ray"
+            width={650}
+            height={650}
+            className="rounded-3xl"
+          />
         </motion.div>
       </div>
     </section>
