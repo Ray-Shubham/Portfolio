@@ -7,7 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Testimonial from "./components/Testimonial";
 import Contacts from "./components/Contacts";
-import ContactForm from "./components/ContactForm";
+// import ContactForm from "./components/ContactForm";
 
 const App = () => {
   return (
@@ -21,8 +21,8 @@ const App = () => {
         <About />
         <Experience />
         <Testimonial />
-        {/* <Contacts /> */}
-        <ContactForm />
+        <Contacts />
+        {/* <ContactForm /> */}
       </main>
     </>
   );
