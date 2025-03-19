@@ -27,7 +27,7 @@ export const HERO_CONTENT = {
   description:
     "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/Subham_Ray_Resume.pdf",
 };
 
 export const PROJECTS = [
@@ -79,9 +79,9 @@ export const ABOUT_CONTENT = {
 
 export const EXPERIENCES = [
   {
-    yearRange: "2023 — Now",
-    title: "Senior Frontend Engineer at TechCorp",
-    location: "Paris, France",
+    yearRange: "2023 — 2024",
+    title: "Engineer at L&T Technology Services.",
+    location: "Vadodara, India",
     description: [
       "Leading the development of scalable frontend architecture for enterprise-level applications.",
       "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
@@ -90,8 +90,8 @@ export const EXPERIENCES = [
   },
   {
     yearRange: "2021 — 2023",
-    title: "Frontend Engineer at Startup Inc.",
-    location: "Remote",
+    title: "Consultant at L&T Technology Services.",
+    location: "Mysore, India",
     description: [
       "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
       "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
@@ -99,9 +99,9 @@ export const EXPERIENCES = [
     ],
   },
   {
-    yearRange: "2018 — 2021",
-    title: "Frontend Developer at Creative Solutions",
-    location: "London, UK",
+    yearRange: "2020 — 2021",
+    title: "Frontend Developer at RK Info Systems",
+    location: "Hyderabad, India",
     description: [
       "Developed and maintained user interfaces for high-traffic websites.",
       "Worked closely with designers to implement pixel-perfect designs.",
@@ -115,42 +115,42 @@ export const TESTIMONIALS = [
     name: "Sarah Johnson",
     title: "Frontend Engineer, Google",
     feedback:
-      "Jason is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
+      "Subham is one of the most talented developers I've had the pleasure of working with. His skills in frontend development are unparalleled, and his ability to solve complex problems with ease is truly impressive. His leadership and communication make him a standout developer in any team.",
     image: person1,
   },
   {
     name: "Michael Anderson",
     title: "Product Manager, Facebook",
     feedback:
-      "Jason was instrumental in driving our product forward. His keen eye for detail and ability to work cross-functionally made him an invaluable asset. He consistently delivers top-quality work and elevates the projects he's involved in. He’s a natural leader, and his expertise in frontend technologies is outstanding.",
+      "Subham was instrumental in driving our product forward. His keen eye for detail and ability to work cross-functionally made him an invaluable asset. He consistently delivers top-quality work and elevates the projects he's involved in. He’s a natural leader, and his expertise in frontend technologies is outstanding.",
     image: person2,
   },
   {
     name: "Emily Davis",
     title: "Lead Designer, Amazon",
     feedback:
-      "Working with Jason has been a phenomenal experience. His deep understanding of both design and development allowed us to push the boundaries of what we could achieve. His creative problem-solving abilities and commitment to quality are second to none.",
+      "Working with Subham has been a phenomenal experience. His deep understanding of both design and development allowed us to push the boundaries of what we could achieve. His creative problem-solving abilities and commitment to quality are second to none.",
     image: person3,
   },
   {
     name: "David Lee",
     title: "Senior Developer, Microsoft",
     feedback:
-      "Jason's contribution to our team was nothing short of amazing. His technical knowledge, combined with his passion for creating user-friendly and scalable applications, made a significant impact on the success of our product. He’s always willing to go the extra mile to ensure the best outcome.",
+      "Subham's contribution to our team was nothing short of amazing. His technical knowledge, combined with his passion for creating user-friendly and scalable applications, made a significant impact on the success of our product. He’s always willing to go the extra mile to ensure the best outcome.",
     image: person4,
   },
   {
     name: "Laura Martinez",
     title: "CTO, Shopify",
     feedback:
-      "Jason brought a level of expertise and professionalism to our team that was greatly appreciated. His focus on scalability and clean code ensured that our platform could handle large traffic loads without compromising performance. His work ethic and collaboration skills are impeccable.",
+      "Subham brought a level of expertise and professionalism to our team that was greatly appreciated. His focus on scalability and clean code ensured that our platform could handle large traffic loads without compromising performance. His work ethic and collaboration skills are impeccable.",
     image: person5,
   },
   {
     name: "Chris Brown",
     title: "Co-founder, Stripe",
     feedback:
-      "Jason combines technical proficiency with excellent leadership skills. He was a key part of our success, helping us build a robust and scalable product. His attention to detail and ability to manage teams made him an invaluable part of the company.",
+      "Subham combines technical proficiency with excellent leadership skills. He was a key part of our success, helping us build a robust and scalable product. His attention to detail and ability to manage teams made him an invaluable part of the company.",
     image: person6,
   },
 ];
@@ -159,26 +159,26 @@ export const CONTACT_CONTENT = {
   headline: "LET'S WORK ON SOMETHING GREAT",
   description:
     "I'm excited to collaborate on projects that push boundaries and create meaningful impact. Let's build something innovative and exceptional together.",
-  email: "jason@example.com",
+  email: "raysubham555@gmail.com",
   socialLinks: [
-    {
-      platform: "Twitter",
-      url: "https://twitter.com/yourprofile",
-      ariaLabel: "Follow me on Twitter",
-      icon: "RiTwitterXFill",
-    },
+    // {
+    //   platform: "Twitter",
+    //   url: "https://twitter.com/yourprofile",
+    //   ariaLabel: "Follow me on Twitter",
+    //   icon: "RiTwitterXFill",
+    // },
     {
       platform: "GitHub",
-      url: "https://github.com/yourprofile",
+      url: "https://github.com/Ray-Shubham",
       ariaLabel: "View my GitHub profile",
       icon: "RiGithubFill",
     },
     {
       platform: "LinkedIn",
-      url: "https://linkedin.com/in/yourprofile",
+      url: "https://www.linkedin.com/in/subhamray555/",
       ariaLabel: "Connect with me on LinkedIn",
       icon: "RiLinkedinFill",
     },
   ],
-  footerText: `© ${new Date().getFullYear()} Jason Root. All rights reserved.`,
+  footerText: `© ${new Date().getFullYear()} Subham Ray. All rights reserved.`,
 };
